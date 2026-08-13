@@ -1,0 +1,15 @@
+/workspaces/Atividade_cs/verao_capixaba_2/bin/Debug/net10.0/verao_capixaba_2
+/workspaces/Atividade_cs/verao_capixaba_2/bin/Debug/net10.0/verao_capixaba_2.deps.json
+/workspaces/Atividade_cs/verao_capixaba_2/bin/Debug/net10.0/verao_capixaba_2.runtimeconfig.json
+/workspaces/Atividade_cs/verao_capixaba_2/bin/Debug/net10.0/verao_capixaba_2.dll
+/workspaces/Atividade_cs/verao_capixaba_2/bin/Debug/net10.0/verao_capixaba_2.pdb
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.AssemblyInfoInputs.cache
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.AssemblyInfo.cs
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.csproj.CoreCompileInputs.cache
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.sourcelink.json
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.dll
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/refint/verao_capixaba_2.dll
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.pdb
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/verao_capixaba_2.genruntimeconfig.cache
+/workspaces/Atividade_cs/verao_capixaba_2/obj/Debug/net10.0/ref/verao_capixaba_2.dll
