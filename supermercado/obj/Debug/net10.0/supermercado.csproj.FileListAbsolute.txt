@@ -1,0 +1,15 @@
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.AssemblyInfoInputs.cache
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.AssemblyInfo.cs
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.csproj.CoreCompileInputs.cache
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.sourcelink.json
+/workspaces/Atividade_cs/supermercado/bin/Debug/net10.0/supermercado
+/workspaces/Atividade_cs/supermercado/bin/Debug/net10.0/supermercado.deps.json
+/workspaces/Atividade_cs/supermercado/bin/Debug/net10.0/supermercado.runtimeconfig.json
+/workspaces/Atividade_cs/supermercado/bin/Debug/net10.0/supermercado.dll
+/workspaces/Atividade_cs/supermercado/bin/Debug/net10.0/supermercado.pdb
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.dll
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/refint/supermercado.dll
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.pdb
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/supermercado.genruntimeconfig.cache
+/workspaces/Atividade_cs/supermercado/obj/Debug/net10.0/ref/supermercado.dll
