@@ -20,7 +20,7 @@ namespace IBGE
 
             while (true){
                 Console.WriteLine("Qual a sua idade?");
-                String entrada_idade = Console.ReadLine();
+                string entrada_idade = Console.ReadLine();
                 idade = int.Parse(entrada_idade);
 
                 if (idade <= 0) 
