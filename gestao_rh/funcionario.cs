@@ -1,4 +1,4 @@
-namespace MeuProjeto
+namespace gestao_rh
 {
     public class Funcionario
     {
@@ -9,22 +9,23 @@ namespace MeuProjeto
 
         public void Cadastrar()
         {
-            Console.WriteLine("Digite o nome do funcionário:");
-            Nome = Console.ReadLine();
-
-            Console.WriteLine("Digite a matrícula do funcionário:");
-            Matricula = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Digite o cargo atual do funcionário:");
-            CargoAtual = Console.ReadLine();
-
-            Console.WriteLine("Digite o salário atual do funcionário:");
-            SalarioAtual = float.Parse(Console.ReadLine());
+            Console.WriteLine("Método que recebe matrícula, nome, cargo e salário do funcionário e cadastra o funcionário.");
         }
 
-        public void ExibirInformacoes()
+        public void ConsultarFuncionario()
         {
-            Console.WriteLine($"Nome: {Nome}, Matrícula: {Matricula}, Cargo: {CargoAtual}, Salário: {SalarioAtual}");
+            Console.WriteLine("Método que recebe matrícula do funcionário e retorna os dados do funcionário.");
+        }
+
+        public void AtualizarSalario(float novoSalario)
+        {
+            SalarioAtual = novoSalario;
+            Console.WriteLine($"Método que recebe matrícula do funcionário e o novo salário, atualizando o salário do funcionário para {novoSalario}.");
+        }
+
+        public void ListarDependentes()
+        {
+            Console.WriteLine("Método que recebe matrícula do funcionário e retorna a lista de dependentes do funcionário.");
         }
     }
 }
