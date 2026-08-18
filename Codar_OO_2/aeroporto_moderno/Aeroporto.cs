@@ -36,5 +36,11 @@ namespace aeroporto_moderno
                 Console.WriteLine($"O aeroporto {nome} não tem capacidade para aceitar o veículo.");
             }
         }
+        
+        public void Liberar(ITransporteVoador veiculo)
+        {
+            capacidade++;
+            Console.WriteLine($"O aeroporto {nome} liberou o veículo.");
+        }
     }
 }

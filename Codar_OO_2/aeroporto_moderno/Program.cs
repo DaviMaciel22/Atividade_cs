@@ -15,6 +15,8 @@
             aeroporto1.Aceitar(aviao1);
             aeroporto1.Aceitar(grifo1);
             aeroporto1.Aceitar(helicoptero1);
+            aeroporto1.Liberar(aviao1);
+            aeroporto1.Aceitar(helicoptero1);
 
         }
     }
